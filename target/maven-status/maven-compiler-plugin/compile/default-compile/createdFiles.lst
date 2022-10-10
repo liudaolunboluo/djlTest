@@ -1,0 +1,5 @@
+com/zyf/singleton/SingletonRegistry.class
+com/zyf/singleton/Test.class
+com/zyf/singleton/Singleton.class
+com/zyf/singleton/handler/SingletonJavacHandler.class
+META-INF/services/lombok.javac.JavacAnnotationHandler
